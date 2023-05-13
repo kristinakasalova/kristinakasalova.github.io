@@ -8625,6 +8625,7 @@ textarea.form-control-lg {
 
 .rounded {
   border-radius: var(--bs-border-radius) !important;
+  transform: rotate(90deg);
 }
 
 .rounded-0 {
