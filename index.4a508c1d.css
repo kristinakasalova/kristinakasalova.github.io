@@ -12255,6 +12255,9 @@ a:hover {
 .back-to-top i:hover {
   transform: translateY(-2px);
 }
+.prpic {
+ transform:rotate(90deg); 
+}
 
 section {
   padding: 5rem 0;
